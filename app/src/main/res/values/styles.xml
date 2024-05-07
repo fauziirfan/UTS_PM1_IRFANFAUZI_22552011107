@@ -1,0 +1,10 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Mendefinisikan warna primer -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- Mendefinisikan warna untuk aksi bar yang lebih gelap -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- Mendefinisikan warna aksen -->
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
